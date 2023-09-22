@@ -1,0 +1,38 @@
+RESIZE & COMPRESS IMAGE
+ANY FILE DOWNLOADER
+GRADIENT COLOR GENERATOR
+PASSWORD VALIDATION
+QR CODE GENERATOR
+QR CODE READER
+QUOTE GENERATOR
+RANDOM PASSWORD GENERATOR
+TEXT TO SPEECH CONVERTOR
+CONVERT TO JPG
+TRANSLATOR
+MEME GENERATOR
+CROSS STITCH APP
+NOTES APP
+TO DO LIST
+WEIGHT CONVERTOR
+Cartoonify-Image
+Currency-Converter
+Dictionary App
+Drawing App
+Gif app
+Playable PIANO
+Code Editor
+Typing Speed Test
+
+
+I have a website in which I have following online tools:
+Xyz,
+Xyz,
+Xyz.
+
+I want you to write a headline of 10-15 words, then a sub headline of 8-10 words.
+
+Then choose 3 tools related to images, then create a headline of this section, and write description of each of three tool in 2-3 sentences.
+
+
+
+Could you please act as a website content writer who have an experience of 26 years?
